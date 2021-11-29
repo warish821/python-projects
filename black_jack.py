@@ -1,3 +1,4 @@
+# welcome to the blackjack
 import random
 print(" Game is Start")
 player_sum = 0 
